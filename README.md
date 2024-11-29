@@ -7,9 +7,9 @@
 - [How to Execute the Project](#how-to-execute-the-project)
 - [Postman Documentation](#postman-documentation)
 - [Technologies Implemented](#technologies-implemented)
-- [Writing Test Cases](#writing-test-cases)
-- [Bug Tracking](#bug-tracking)
-- [Newman Test Results](#newman-test-results)
+- [Test Cases](#test-cases-writing)
+- [Bug Report](#bug-report)
+- [Newman Rport](#newman-report)
   - [Summary](#summary)
   - [Requests Overview](#requests-overview)
 
@@ -64,12 +64,12 @@ The DMoney project serves as a simulation platform for financial transactions, a
 
 1. Clone this project:
    ```bash
-   git clone
+   git clone  https://github.com/sunjidanisha/Dmoney-REST-API-with-Newman-report
 2.Open the project in any code editor or command shell.
 
 ## Technology Used
-Postman: Download and install Postman if you haven't already.
-Newman
+-Postman: Download and install Postman if you haven't already.
+-Newman
 
 ## Test Case Writing
 
@@ -87,6 +87,8 @@ The identified bugs during the testing phase of the DMoney API project are docum
 ## Newman report
 ![image](https://github.com/user-attachments/assets/d5cd511f-513f-472f-9100-445bd01d7362)
 ![image](https://github.com/user-attachments/assets/7ce4d0f9-c074-499b-879d-2a10e159bb8a)
+
+## Total request
 ![image](https://github.com/user-attachments/assets/8ca6f14a-8f8d-4b2b-a128-18ba0e014b6d)
 ![image](https://github.com/user-attachments/assets/26f02029-4920-4fb1-8d39-6888876ad901)
 
