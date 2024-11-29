@@ -6,10 +6,10 @@
 - [API Details](#api-details)
 - [How to Execute the Project](#how-to-execute-the-project)
 - [Postman Documentation](#postman-documentation)
-- [Technologies Implemented](#technologies-implemented)
+- [Technologies Used](#technologies-used)
 - [Test Cases](#test-cases-writing)
 - [Bug Report](#bug-report)
-- [Newman Rport](#newman-report)
+- [Newman Report](#newman-report)
   - [Summary](#summary)
   - [Requests Overview](#requests-overview)
 
