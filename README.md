@@ -10,8 +10,7 @@
 - [Test Cases](#test-cases-writing)
 - [Bug Report](#bug-report)
 - [Newman Report](#newman-report)
-  - [Summary](#summary)
-  - [Requests Overview](#requests-overview)
+  
 
 ---
 
@@ -68,8 +67,8 @@ The DMoney project serves as a simulation platform for financial transactions, a
 2.Open the project in any code editor or command shell.
 
 ## Technology Used
--Postman: Download and install Postman if you haven't already.
--Newman
+1.Postman: Download and install Postman if you haven't already.
+2.Newman
 
 ## Test Case Writing
 
