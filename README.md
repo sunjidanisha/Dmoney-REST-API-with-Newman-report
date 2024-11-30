@@ -3,12 +3,11 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Test Scenarios](#test-scenarios)
-- [API Details](#api-details)
+- [API Endpoint Details](#api--endpointdetails)
 - [How to Execute the Project](#how-to-execute-the-project)
-- [Postman Documentation](#postman-documentation)
 - [Technologies Used](#technologies-used)
-- [Test Cases](#test-cases-writing)
-- [Bug Report](#bug-report)
+- [Test Cases Writing](#test-cases-writing)
+- [Bug Report Writing](#bug-report-writing)
 - [Newman Report](#newman-report)
   
 
