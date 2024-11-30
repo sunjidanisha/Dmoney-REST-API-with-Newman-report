@@ -57,18 +57,24 @@ The DMoney project serves as a simulation platform for financial transactions, a
 
 - **User API Endpoints**: [https://dmoney.roadtocareer.net/api-docs/user](https://dmoney.roadtocareer.net/api-docs/user)
 - **Transaction API Endpoints**: [https://dmoney.roadtocareer.net/api-docs/transaction](https://dmoney.roadtocareer.net/api-docs/transaction)
-- **Partner Key**: `X-AUTH-SECRET-KEY: ROADTODET`
+- **Secret Key**: `X-AUTH-SECRET-KEY: ROADTOSDET`
 
 ## How to Run the Project
 
 1. Clone this project:
    ```bash
-   git clone  https://github.com/sunjidanisha/Dmoney-REST-API-with-Newman-report
+   git clone https://github.com/sunjidanisha/Dmoney-REST-API-with-Newman-report
 2.Open the project in any code editor or command shell.
+3.Install the required dependencies
+4.Run the Newman collection
 
 ## Technology Used
-1.Postman: Download and install Postman if you haven't already.
-2.Newman
+
+1. **Postman**: Download and install Postman if you haven't already.  
+   - [Download Postman](https://www.postman.com/downloads/)
+
+2. **Newman**: Used to run Postman collections from the command line.
+
 
 ## Test Case Writing
 
