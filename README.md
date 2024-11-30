@@ -64,9 +64,10 @@ The DMoney project serves as a simulation platform for financial transactions, a
 1. Clone this project:
    ```bash
    git clone https://github.com/sunjidanisha/Dmoney-REST-API-with-Newman-report
-2.Open the project in any code editor or command shell.
-3.Install the required dependencies
-4.Run the Newman collection
+   
+2. Open the project in any code editor or command shell.
+3. Install the required dependencies
+4. Run the Newman collection
 
 ## Technology Used
 
